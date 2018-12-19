@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "01a09ead662ed499a7469f1392dc1785",
-    "url": "/Portfolio/static/media/desktop.01a09ead.PNG"
+    "revision": "f7cc5d4e08eae2eab77e8be7b8e3d171",
+    "url": "/Portfolio/static/media/iphone.f7cc5d4e.PNG"
   },
   {
-    "revision": "2775f3bea48d2f4ed2fa",
-    "url": "/Portfolio/static/css/main.8b5c94b7.chunk.css"
+    "revision": "0e4eb8b3db911bd2363e",
+    "url": "/Portfolio/static/css/main.15b0d4f4.chunk.css"
   },
   {
     "revision": "e4130d91811eb9f5aaf13ab9ef612644",
     "url": "/Portfolio/static/media/backblur1.e4130d91.png"
   },
   {
-    "revision": "6ba859974cb8d2a27121",
-    "url": "/Portfolio/static/js/1.6ba85997.chunk.js"
+    "revision": "fc39b2b2a3ed5631aee2",
+    "url": "/Portfolio/static/js/1.fc39b2b2.chunk.js"
   },
   {
     "revision": "3b96116072eb85f5a3a2",
@@ -80,16 +80,16 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/figma.d3b78e9b.png"
   },
   {
-    "revision": "2775f3bea48d2f4ed2fa",
-    "url": "/Portfolio/static/js/main.2775f3be.chunk.js"
+    "revision": "01a09ead662ed499a7469f1392dc1785",
+    "url": "/Portfolio/static/media/desktop.01a09ead.PNG"
   },
   {
     "revision": "cbe010c19a894e2f4a517a3142c780f9",
     "url": "/Portfolio/static/media/ipad.cbe010c1.PNG"
   },
   {
-    "revision": "f7cc5d4e08eae2eab77e8be7b8e3d171",
-    "url": "/Portfolio/static/media/iphone.f7cc5d4e.PNG"
+    "revision": "0e4eb8b3db911bd2363e",
+    "url": "/Portfolio/static/js/main.0e4eb8b3.chunk.js"
   },
   {
     "revision": "5350c3b691a80033f43f1d3cf9d52067",
@@ -144,8 +144,8 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/bluedog.14813497.jpg"
   },
   {
-    "revision": "c9a152e162646b006766a5ce26227f8a",
-    "url": "/Portfolio/static/media/Prox2.c9a152e1.png"
+    "revision": "bf84f7a77a7d720a186021c29d6b8e43",
+    "url": "/Portfolio/static/media/Splash.bf84f7a7.png"
   },
   {
     "revision": "3dbc58f8bcc313b269d69e9d50c01242",
@@ -156,11 +156,27 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/BackgroundInk2.f5e78ffa.png"
   },
   {
-    "revision": "6ba859974cb8d2a27121",
-    "url": "/Portfolio/static/css/1.9dbb0679.chunk.css"
+    "revision": "bb19fdd63bb4f11800bb0517e488587c",
+    "url": "/Portfolio/static/media/Cct2h.bb19fdd6.png"
   },
   {
-    "revision": "a849c6375ba00604f6c652163df634bb",
+    "revision": "5eb0612dc203991c5a80a49678bd85a4",
+    "url": "/Portfolio/static/media/Kunduzh.5eb0612d.png"
+  },
+  {
+    "revision": "2c0c69cec33bbc6f361cfe3cab5d3f9d",
+    "url": "/Portfolio/static/media/bluedogh.2c0c69ce.png"
+  },
+  {
+    "revision": "ff7c1830f28139e9fb32f223ba7c0279",
+    "url": "/Portfolio/static/media/Splashh.ff7c1830.png"
+  },
+  {
+    "revision": "fc39b2b2a3ed5631aee2",
+    "url": "/Portfolio/static/css/1.7e456a8d.chunk.css"
+  },
+  {
+    "revision": "c81e48e21184015d1e4ed403ed76b5a6",
     "url": "/Portfolio/index.html"
   }
 ];
